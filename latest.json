@@ -1,11 +1,11 @@
 {
   "version": "0.0.1",
   "notes": "See the release notes at https://github.com/VoiceTrail/voicetrail-app/releases/tag/v0.0.1",
-  "pub_date": "2026-03-18T04:29:22Z",
+  "pub_date": "2026-03-18T04:50:28Z",
   "download_url": "https://github.com/VoiceTrail/voicetrail-releases/releases/download/v0.0.1/VoiceTrail_0.0.1_aarch64.dmg",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2w2TEExdm0wekp1MHFRL0NTRlBWbSs2cXIzN0YyWUhzZ3RYdDltM2I0ZUR3dlZWZ0N0TUd5MWRVK0l4RHE1NzFFNkR1UHFudk55NDNXWVh4MVhEZXduVm9IdmJCT2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODA4MTQ4CWZpbGU6Vm9pY2VUcmFpbC5hcHAudGFyLmd6Ck1DNWdpUzJLN0VLRkpUelhwV3JsalRaR0JKZnU4cm9ySkdXV0s4ZDZuWnRZeUtBd3plb2UvUnN1MFpYOGVTbFk3YmVyZnMzTEViclZJVEhobElMWURnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2w2TEExdm0welAwOVJLUTFSeElWWEU4ZVdkRnZKOFJTY0NsbmNnK0dJd0xySjhwMy92OXRVY0lhOUNqaDJ1YkZsaXVxdzBKL1RMTHdUTmZlby9BTVpLa0RxSC9vWUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODA5NDA2CWZpbGU6Vm9pY2VUcmFpbC5hcHAudGFyLmd6ClVWWWJkZlcyRGk2U1hsamR3K29BUTNFcWt4dXB6aGUvWmk1cTk3TXF0RFVMSzY1OXdxWERYTmEzUWRjdFBCMDBMbnIzQ1llWE1ldzM1aEZNV3k0TERBPT0K",
       "url": "https://voicetrail.github.io/voicetrail-releases/VoiceTrail.app.tar.gz"
     }
   }
